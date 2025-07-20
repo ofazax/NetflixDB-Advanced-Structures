@@ -53,7 +53,7 @@ Para compilar e executar o projeto, você precisará ter o **Java Development Ki
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/ofazax/NetflixDB-Advanced-Structures.git](https://github.com/ofazax/NetflixDB-Advanced-Structures.git)
+    git clone https://github.com/ofazax/NetflixDB-Advanced-Structures.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
